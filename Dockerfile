@@ -1,6 +1,6 @@
-FROM ubuntu:trusty
-MAINTAINER Martin Chan <osiutino@gmail.com>
-ENV REFRESHED_AT 2016-09-01
+FROM debian:jessie
+MAINTAINER Julien Roubieu <jroubieu@gmail.com>
+ENV REFRESHED_AT 2016-09-13
 
 USER root
 
